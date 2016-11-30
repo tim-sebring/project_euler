@@ -1,5 +1,7 @@
 #!/bin/env python
 
+# Project euler problem #2
+
 
 def next_fib(a,b):
     return a + b
