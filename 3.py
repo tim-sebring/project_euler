@@ -1,6 +1,7 @@
 #!/bin/env python
 
 # project euler problem 3
+# seen from projecteuler.net
 
 
 import math
