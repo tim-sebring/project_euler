@@ -1,6 +1,6 @@
 #!/bin/env python
 
-# Project euler problem #2
+# Project euler problem #2, projecteuler.net
 
 
 def next_fib(a,b):
