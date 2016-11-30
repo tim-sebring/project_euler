@@ -1,6 +1,9 @@
 #!/bin/env python
 
 
+# This is number 1 in the "Project Euler" series of programming problems,
+# as mentioned in https://projecteuler.net/
+
 def is_mult_5(number):
     if number % 5 == 0:
         return True
